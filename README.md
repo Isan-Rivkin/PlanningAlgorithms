@@ -1,0 +1,2 @@
+# PlanningAlgorithms
+Strips General planner
